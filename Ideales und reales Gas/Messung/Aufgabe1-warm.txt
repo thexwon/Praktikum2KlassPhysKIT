@@ -1,6 +1,7 @@
 # normaler Luftdruck p0= x bar
 # h0_links = 0.0x m, h_rechts=ablesen     mehrmals ablesen für Fehlerrechnung
 # n mal abgelesen, T in °C , h_rechts in m, h_links in m
+0;0;0;0
 1; 100.5; 0.089; 0.3
 2; 100.5; 0.089; 0.299 
 3; 100.5; 0.089; 0.3
